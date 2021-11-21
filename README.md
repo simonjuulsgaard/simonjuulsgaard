@@ -1,5 +1,5 @@
 - Hello, I’m Simon Mathiasen
-- I’m interested in web development and other programming
+- I’m interested in PHP and C/C++ development
 - I’m currently learning C/C++
 - If you want to contact me use my email
 
