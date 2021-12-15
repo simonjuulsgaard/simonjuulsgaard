@@ -1,7 +1,7 @@
-- Hello, I’m Simon Mathiasen
-- I’m interested in PHP and C/C++ development
-- I’m currently learning C/C++
-- If you want to contact me use my email
+- Hello, I’m Simon Mathiasen i live in Denmark, Helsingør
+- I’m interested in PHP, C/C++ and Rust development
+- I’m currently learning C/C++ and Rust
+- If you want to contact me use my email or use the contact page on my website
 
 <!---
 simonjuulsgaard/simonjuulsgaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
