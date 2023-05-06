@@ -1,6 +1,6 @@
 - Hello, I’m Simon Juulsgaard Mathiasen i live in Denmark, Helsingør.
-- I’m currently interested in PHP.
-- I’m currently learning PHP (because practice makes perfect!).
+- I’m interested in PHP and CSS.
+- I’m currently learning PHP and CSS (because practice makes perfect!).
 - If you want to contact me use simonjmathiasen@gmail.com or use the contact page on my website [https://juulsgaard.org/kontakt.php](https://juulsgaard.org/kontakt.php).
 
 <!---
